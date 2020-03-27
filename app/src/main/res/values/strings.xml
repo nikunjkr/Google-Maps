@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Smart</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="normal_map">Steet</string>
+    <string name="hybrid_map">Hyprid</string>
+    <string name="satellite_map">Sattelite</string>
+
+    <string name="terrain_map">Terrains</string>
+
+
+</resources>
